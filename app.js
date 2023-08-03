@@ -17,38 +17,38 @@ let products = [
     {
         id: 1,
         name: 'PRODUCT NAME 1',
-        image: '1.PNG',
-        price: 120000
+        image: 'p1.png',
+        price: 12
     },
     {
         id: 2,
         name: 'PRODUCT NAME 2',
-        image: '2.PNG',
-        price: 120000
+        image: 'p2.png',
+        price: 15
     },
     {
         id: 3,
         name: 'PRODUCT NAME 3',
-        image: '3.PNG',
-        price: 220000
+        image: 'p3.png',
+        price: 20
     },
     {
         id: 4,
         name: 'PRODUCT NAME 4',
-        image: '4.PNG',
-        price: 123000
+        image: 'p4.png',
+        price: 18
     },
     {
         id: 5,
         name: 'PRODUCT NAME 5',
-        image: '5.PNG',
-        price: 320000
+        image: 'p5.png',
+        price: 25
     },
     {
         id: 6,
         name: 'PRODUCT NAME 6',
-        image: '6.PNG',
-        price: 120000
+        image: 'p6.png',
+        price: 18
     }
 ];
 let listCards  = [];
